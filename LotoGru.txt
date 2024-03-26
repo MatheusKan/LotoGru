@@ -1,0 +1,11 @@
+
+LotoGru
+
+o usuário escolhe 25 entre 50 numeros e o valor a ser empenhado.
+
+O jogador ganha quando acertar 25, 24, 23, 22, 21 ou nenhum número.
+
+O premio é de 50 x o valor da aposta para 0 ou 25 acertos
+
+Abaixo disso o prêmio é igual a quantidade de acertos x valor da aposta
+
